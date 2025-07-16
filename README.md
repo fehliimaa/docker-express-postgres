@@ -18,3 +18,8 @@ Sample project following best practices:
 
 ```bash
 docker-compose up --build
+
+## ✅ Expected result
+<img src= "public/assets/Img-1.png" />
+<br>
+<img src= "public/assets/Img-2.png" />
