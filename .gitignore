@@ -1,0 +1,4 @@
+.env
+app/package.json
+app/node_modules
+app/npm-debug.log
