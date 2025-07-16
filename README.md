@@ -20,6 +20,6 @@ Sample project following best practices:
 docker-compose up --build
 
 ## ✅ Expected result
-<img src= "public/assets/Img-1.png" />
+<img alt="Result 1" src="public/assets/Img-1.png">
 <br>
-<img src= "public/assets/Img-2.png" />
+<img alt="Result 2" src="public/assets/Img-2.png">
