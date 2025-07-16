@@ -18,6 +18,7 @@ Sample project following best practices:
 
 ```bash
 docker-compose up --build
+```
 
 ## ✅ Expected result
 <img alt="Result 1" src="public/assets/Img-1.png">
